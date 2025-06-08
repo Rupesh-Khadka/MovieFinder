@@ -21,6 +21,8 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone (https://github.com/Rupesh-Khadka/MovieFinder.git)
 cd your-repo
+npm install
+npm run dev
 
