@@ -9,9 +9,9 @@ Follow these steps to copy and run this project locally.
 
 Make sure you have the following installed:
 
-- [Git](https://git-scm.com/)
-- [Your programming language/runtime] (e.g., Python 3.10+, Node.js, etc.)
-- [Other dependencies or tools]
+- typescript
+- vite + react
+- npm
 
 ### 📦 Installation
 
